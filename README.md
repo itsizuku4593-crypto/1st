@@ -10,7 +10,7 @@ int main() {
 
     // Input student information
     cout << "Enter student's name: ";
-    getline(std::cin, name);
+    getline(cin, name);
     cout << "Enter student's age: ";
     cin >> age;
     cout << "Enter student's major: ";
